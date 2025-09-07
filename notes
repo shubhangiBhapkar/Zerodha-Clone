@@ -1,0 +1,11 @@
+manifest.txt 
+-stores data in cash 
+-1st time website take much time load than 2nd time ,2nd time it stores data in browers cash.
+
+robot.txt
+-search engine optimize
+-on behalf of its instriction our website is crawl
+-disaalow - crawl can not visit which is diallowed
+
+Branch
+-git checkout -b project-structure  :creates new braanch project-structure is branch name
