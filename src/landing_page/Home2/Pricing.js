@@ -1,10 +1,10 @@
 import React from 'react';
 function Pricing() {
     return ( 
-        <div className="container">
+        <div className="container mb-5">
             <div className="row mt-5">
                 <div className="col-4 ">
-                    <h3 className='mt-5 mb-5'>Unbeatable pricing</h3>
+                    <h3 className='pt-5 mb-5'>Unbeatable pricing</h3>
                     <p >We pioneered the concept of discount broking and price transparency 
                     in India. Flat fees and no hidden charges.</p>
 
@@ -14,7 +14,7 @@ function Pricing() {
                 </div>
                 <div className="col-2"></div>
                 
-                <div className="col-6">
+                <div className="col-6 pt-5">
                     <div className="row">
                         <div className="col border">
                             <h1 ><i class="fa-solid fa-indian-rupee-sign mt-5 mb-5" ></i> 0</h1>
