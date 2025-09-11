@@ -14,7 +14,6 @@ function HomePage() {
   console.log("✅ HomePage loaded");
     return ( 
         <>
-         <h1>Hello from HomePage</h1>
       <Navbar />
      <Hero />
        <Awards />
