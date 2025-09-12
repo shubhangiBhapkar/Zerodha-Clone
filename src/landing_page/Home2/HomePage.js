@@ -14,14 +14,13 @@ function HomePage() {
   console.log("✅ HomePage loaded");
     return ( 
         <>
-      <Navbar />
      <Hero />
        <Awards />
       <Stats />
       <Pricing />
       <Education />  
        <OpenAccount />
-      <Footer /> 
+       
         </>
      );
 }
