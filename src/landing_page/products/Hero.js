@@ -8,12 +8,8 @@ function Hero() {
                     <p className='pt-2 fs-4'>Sleek, modern, and intuitive trading platforms</p>
                     <p className='fs-5'>Check out our <a href='#' className='text-decoration-none'>investment offerings</a> <i  i class="fa-solid fa-arrow-right"></i></p>
                 </div>
-            </div>
-
-                
-            
+            </div>   
         </div>
      );
 }
-
 export default Hero;
