@@ -11,7 +11,7 @@ function Universe() {
                     </div>
                 </div>
 
-                <div className="row text-center ">
+                <div className="row text-center text-muted">
 
                     {/* Column 1 */}
                     <div className="col-4 pt-4">
