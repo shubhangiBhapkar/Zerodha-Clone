@@ -24,7 +24,7 @@ function RightSection( {
                     </div>
                 </div>
             </div>
-        </>
+                 </>
      );
 }
 
