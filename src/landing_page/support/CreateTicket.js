@@ -2,8 +2,8 @@ import React from 'react';
 function CreateTicket() {
     return (
         <>
-            <div className="container">
-                <p className=' fs-3 fw-bold '>To create a ticket, select relevant topic</p>
+            <div className="container pt-5">
+                <p className=' fs-3 fw-bold pt-5 '>To create a ticket, select relevant topic</p>
                 <div className="row mt-5">
                     <div className="col-4 ">
                         <h4><i class="fa-regular fa-circle-check fs-5 mb-3"></i > Account Opening</h4>
